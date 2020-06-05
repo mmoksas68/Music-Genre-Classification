@@ -5,7 +5,8 @@ Music shops and especially online platforms such as Spotify, Apple Music, etc. r
 
 In our term project, we have decided to find the best music classification algorithm by genres. The best is defined by the highest accuracy. The accuracies are given for each music genre, average accuracy and top 3 accuracies. For the purpose of classification, we have used the following methods: 1D Convolutional Neural Network (1D CNN), 2D Convolutional Neural Network (2D CNN), Long Short-Term Memory (LSTM) and SVM.
 
-The results (average accuracies) obtained from these methods are the following: 1D CNN with Raw Waveform: 51% and ​Top 3 accuracy: 79%<br>
+The results (average accuracies) obtained from these methods are the following:<br> 
+1D CNN with Raw Waveform: 51% and Top 3 accuracy: 79%<br>
 1D CNN with Mel Spec: 64% and Top 3 accuracy: 86%<br> 
 2D CNN with Mel Spec: 41% and Top 3 accuracy: 74%<br> 
 Long Short-Term Memory (LSTM): 62% and Top 3 accuracy: 85%<br> 
