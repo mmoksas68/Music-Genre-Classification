@@ -1,5 +1,6 @@
 # Music-Genre-Classification
 Training different classification models on GTZAN Genre collection dataset
+Link to dataset: http://marsyas.info/downloads/datasets.html
 
 Music shops and especially online platforms such as Spotify, Apple Music, etc. require a music genre classification algorithm when suggesting and keeping different kinds of genres in their platforms. There are quite a number of music tracks in these platforms and organizing every music tracks by their genres is significantly difficult. By organizing each music track by its genre, the platforms can develop further systems to suggest users new tracks by predefined genres.
 
