@@ -10,7 +10,7 @@ disco, hip-hop, jazz, reggae, rock, metal, and pop. Each genre has 100 audio tra
 inside and each of the tracks consists of 30 seconds. <br>
 The audio tracks are preprocessed with the LibROSA package of python that
 extracts features from spectrogram of audio tracks. For our methods, we have used
-these extracted features and the pictures of the spectrogram.<br>
+these extracted features and the pictures of the spectrogram.<br><br>
 Link to dataset: http://marsyas.info/downloads/datasets.html
 
 In our term project, we have decided to find the best music classification algorithm by genres. The best is defined by the highest accuracy. The accuracies are given for each music genre, average accuracy and top 3 accuracies. For the purpose of classification, we have used the following methods: 1D Convolutional Neural Network (1D CNN), 2D Convolutional Neural Network (2D CNN), Long Short-Term Memory (LSTM) and SVM.
