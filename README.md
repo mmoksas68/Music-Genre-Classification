@@ -22,4 +22,4 @@ The results (average accuracies) obtained from these methods are the following:<
 Long Short-Term Memory (LSTM): 62% and Top 3 accuracy: 85%<br> 
 SVM with RBF kernels: 64% 
 
-
+![alt text](https://github.com/mmoksas68/Music-Genre-Classification/blob/master/result images/1.PNG?raw=true)
