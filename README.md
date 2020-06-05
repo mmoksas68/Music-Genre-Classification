@@ -24,11 +24,15 @@ SVM with RBF kernels: 64%
 
 ![alt text](https://github.com/mmoksas68/Music-Genre-Classification/blob/master/result-images/1.PNG?raw=true)
 <br>
+<br>
 ![alt text](https://github.com/mmoksas68/Music-Genre-Classification/blob/master/result-images/2.PNG?raw=true)
+<br>
 <br>
 ![alt text](https://github.com/mmoksas68/Music-Genre-Classification/blob/master/result-images/3.PNG?raw=true)
 <br>
+<br>
 ![alt text](https://github.com/mmoksas68/Music-Genre-Classification/blob/master/result-images/4.PNG?raw=true)
+<br>
 <br>
 ![alt text](https://github.com/mmoksas68/Music-Genre-Classification/blob/master/result-images/5.PNG?raw=true)
 
